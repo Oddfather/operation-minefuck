@@ -50,3 +50,8 @@ Still, here’s a rough sketch of where the ship might sail:
 ---
 
 ### Long-Term Dreams
+
+- [ ] Cross-platform daemon (Linux, Windows, maybe mobile).  
+- [ ] Integration with decentralized infra (IPFS, ICP, or Solana).  
+- [ ] Alternate reality game tie-ins.  
+- [ ] Make surveillance capitalism regret looking our way.  
