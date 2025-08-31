@@ -19,7 +19,7 @@ A consent-capitalism experiment, prank, and protest tool.
 ### 🚀 Repo Contents
 - `prototype/` → the first working PoC (profile curator + API server).
 - `docs/manifesto.md` → Operation Minefuck statement.
-- `docs/tricksters_testament.pdf` → Discordian-style “inheritance” for future pranksters.
+- `docs/tricksters_testament.md` → Discordian-style “inheritance” for future pranksters.
 - `roadmap.md` → ideas, features, and experiments in progress.
 
 - # Operation Minefuck Roadmap
